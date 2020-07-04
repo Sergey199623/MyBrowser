@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="title_activity_second">Browser Launcher</string>
+</resources>
